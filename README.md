@@ -1,4 +1,4 @@
-![logo](https://github.com/Rasipogulapavankumar16/Rasipogulapavankumar16/blob/main/Untitled%20design.jpg)
+
 <h1 align="center">Hi 👋, I'm Pavan Kumar</h1>
 <h3 align="center">A passionate FullStackDeveloper from India</h3>
 
