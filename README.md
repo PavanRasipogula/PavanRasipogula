@@ -1,4 +1,4 @@
-<!--![logo](https://github.com/Rasipogulapavankumar16/Rasipogulapavankumar16/blob/main/R%20PAVAN%20KUMAR%20BANNER.gif)-->
+<img href="https://github.com/Rasipogulapavankumar16/Rasipogulapavankumar16/blob/main/R%20PAVAN%20KUMAR%20BANNER.gif">
 <h1 align="center">Hi 👋, I'm Pavan Kumar</h1>
 <h3 align="center">A passionate FullStackDeveloper from India</h3>
 
