@@ -2,7 +2,7 @@
     <img width="80%" align="center" height="1" src="https://drive.google.com/file/d/12QVlVyw9mLWqMAN6wOW4qsqH5pPSiQBf/view?usp=share_link" />
 </p>
 <h1 align="center">Hi 👋, I'm Pavan Kumar</h1>
-<h3 align="center">A passionate FullStackDeveloper from India</h3>
+<h3 align="center">A Passionate FullStackDeveloper from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
