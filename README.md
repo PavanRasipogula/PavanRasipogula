@@ -1,5 +1,5 @@
 <p  align="center">
-    <img width="80%" align="center" height="1" src="https://github.com/Rasipogulapavankumar16/Rasipogulapavankumar16/blob/main/PAVAN%20KUMR.png" />
+    <img width="80%" align="center" height="1" src="https://drive.google.com/file/d/12QVlVyw9mLWqMAN6wOW4qsqH5pPSiQBf/view?usp=share_link" />
 </p>
 <h1 align="center">Hi 👋, I'm Pavan Kumar</h1>
 <h3 align="center">A passionate FullStackDeveloper from India</h3>
