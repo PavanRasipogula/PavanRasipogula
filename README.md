@@ -1,5 +1,5 @@
 <p  align="center">
-    <img width="80%" align="center" height="1" src="" />
+    <img width="80%" align="center" height="1" src="./PAVAN KUMAR.png" />
 </p>
 <h1 align="center">Hi 👋, I'm Pavan Kumar</h1>
 <h3 align="center">A passionate FullStackDeveloper from India</h3>
