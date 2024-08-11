@@ -7,7 +7,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 # 💫 About Me:
-<br>- 🎓  I’m currently **STUDENT 👨‍🎓**<br><br>- 🌱 I’m currently learning **AI,REACTJS**<br><br>- 💬 Ask me about **HTML,CSS,PYTHON**<br><br>- 📫 How to reach me **JUSTMAILTOPAVANKUMAR@GMAIL.COM**
+<br>- 🎓  I’m currently **GRADUATE 👨‍🎓**<br><br>- 🌱 I’m currently learning **AI,REACTJS**<br><br>- 💬 Ask me about **HTML,CSS,PYTHON**<br><br>- 📫 How to reach me **JUSTMAILTOPAVANKUMAR@GMAIL.COM**
 
 
 ## 🌐 Socials:
@@ -23,6 +23,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Rasipogulapavankumar16&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rasipogulapavankumar16&label=Profile%20views&color=0e75b6&style=flat" alt="rasipogulapavankumar16" /> </p>
